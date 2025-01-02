@@ -1,0 +1,156 @@
+Meals Total: $25
+Drinks Total: $10
+Total Price: $35
+Date: 13 12 2024
+====================
+Meals Total: $22
+Drinks Total: $5
+Total Price: $27
+Date: 13 12 2024
+====================
+Customer: ALGIE
+Meals Total: $20
+Drinks Total: $12
+Total Price: $32
+Date: 14 12 2024
+====================
+Customer: hahaaah
+Customer: algie
+Customer: hahaha
+Meals Total: ₱37.00
+Drinks Total: ₱16.00
+Total Price: ₱53.00
+Date: 14 12 2024
+====================
+Customer: FJFJFJFJF
+Meals Total: ₱37.00
+Drinks Total: ₱16.00
+Total Price: ₱53.00
+Date: 14 12 2024
+====================
+Customer: charls
+Meals Total: ₱37.00
+Drinks Total: ₱27.00
+Total Price: ₱64.00
+Date: 14 12 2024
+====================
+Customer: algie
+Meals Total: ₱370.00
+Drinks Total: ₱75.00
+Total Price: ₱445.00
+Date: 14 - 12 - 2024
+====================
+Customer: ALGIE
+Meals Total: ₱370.00
+Drinks Total: ₱140.00
+Total Price: ₱510.00
+Date: 14 - 12 - 2024
+====================
+Customer: ALGIE
+Meals Total: ₱740.00
+Drinks Total: ₱375.00
+Total Price: ₱1115.00
+Date: 14 - 12 - 2024
+====================
+Customer: algie
+Meals Total: ₱1520.00
+Drinks Total: ₱740.00
+Total Price: ₱2260.00
+Date: 17 - 12 - 2024
+====================
+Customer: algie
+Meals Total: ₱200.00
+Drinks Total: ₱90.00
+Total Price: ₱290.00
+Date: 12/17/2024
+====================
+Customer: algie
+Meals Total: ₱1240.00
+Drinks Total: ₱225.00
+Total Price: ₱1465.00
+Date: 12/18/2024
+====================
+Customer: tttt
+Meals Total: ₱200.00
+Drinks Total: ₱180.00
+Total Price: ₱380.00
+Date: 12/18/2024
+======================
+Customer: algie
+Meals Total: ₱400.00
+Drinks Total: ₱80.00
+Total Price: ₱480.00
+Date: 12/19/2024
+======================
+Customer: algie
+Meals Total: ₱400.00
+Drinks Total: ₱80.00
+Total Price: ₱480.00
+Date: 12/19/2024
+======================
+Customer: sdff
+Meals Total: ₱580.00
+Drinks Total: ₱50.00
+Total Price: ₱630.00
+Date: 12/19/2024
+======================
+Customer: matthew
+Meals Total: ₱1200.00
+Drinks Total: ₱450.00
+Total Price: ₱1650.00
+Date: 12/19/2024
+======================
+Customer: algie
+Meals Total: ₱400.00
+Drinks Total: ₱300.00
+Total Price: ₱700.00
+Date: 12/19/2024
+======================
+Customer: berm
+Meals Total: ₱100.00
+Drinks Total: ₱180.00
+Total Price: ₱280.00
+Date: 12/19/2024
+======================
+Customer: gabriel
+Meals Total: ₱4100.00
+Drinks Total: ₱150.00
+Total Price: ₱4250.00
+Date: 12/19/2024
+======================
+Customer: ak
+Meals Total: ₱500.00
+Drinks Total: ₱50.00
+Total Price: ₱550.00
+Date: 12/19/2024
+======================
+Customer: wdhkq
+Meals Total: ₱200.00
+Drinks Total: ₱0.00
+Total Price: ₱200.00
+Date: 12/19/2024
+======================
+Customer: heir
+Meals Total: ₱3400.00
+Drinks Total: ₱120.00
+Total Price: ₱3520.00
+Date: 12/19/2024
+======================
+Customer: ser
+Meals Total: ₱200.00
+Drinks Total: ₱150.00
+Total Price: ₱350.00
+Date: 12/19/2024
+======================
+Customer: algie
+Meals Total: ₱300.00
+Drinks Total: ₱150.00
+Total Price: ₱450.00
+Date: 12/19/2024
+======================
+Customer: algie
+Meals Total: ₱1410.00
+Drinks Total: ₱150.00
+Total Price: ₱1560.00
+Date: 12/19/2024
+======================
